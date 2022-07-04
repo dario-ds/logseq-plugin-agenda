@@ -16,12 +16,12 @@ Purple:
 ![purple](../../screenshots/dashboard-purple.png)
 
 ## Home Page
-home page
+
+Select the standard view that opens when using the plugin. 
 
 ## Default Duration
-event default duration
 
-When no end time is specified, add a default duration based on the start time.
+When no end time is specified, Agenda will automatically add the default event duration of your choice.
 
 ## Log Key
 
